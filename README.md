@@ -4,7 +4,7 @@
 
 Transform your Panasonic TV remote into the ultimate prank device. Press button "1" to trigger hilarious fart sounds through your Raspberry Pi. Features custom fart recording, pattern learning, and authentic Panasonic IR protocol detection.
 
-![Fart Button Demo](https://img.shields.io/badge/Fart%20Level-LEGENDARY-brightgreen?style=for-the-badge&logo=raspberry-pi)
+![Fart Button Demo](https://github.com/ChrisFryer/panasonic_fart_system/blob/main/CLI_Screenshot.png)
 
 ## 🚀 Features
 
