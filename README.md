@@ -38,7 +38,7 @@ Transform your Panasonic TV remote into the ultimate prank device. Press button 
 ### Essential Components
 - **Raspberry Pi** (any model with GPIO)
 - **VS1838B IR Receiver** (38kHz)
-![IR Sensor Image](https://github.com/ChrisFryer/panasonic_fart_system/blob/main/VS1838B%20IR%20Receiver.jpg)
+![IR Sensor Image](<img src="https://github.com/ChrisFryer/panasonic_fart_system/blob/main/VS1838B%20IR%20Receiver.jpg" alt="Description" width="50%">)
 - **Panasonic Remote Control**
 - **Jumper wires**
 - **Breadboard** (optional)
